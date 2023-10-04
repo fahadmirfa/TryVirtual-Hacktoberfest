@@ -60,16 +60,6 @@ We welcome contributions from the community! To contribute to this project:
 3. Make your changes, commit, and push to your branch.
 4. Open a pull request, describing the changes and referencing any related issues.
 
-Please review our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## Code of Conduct
-
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and inclusive community.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact Information
 
 For questions, suggestions, or collaboration, you can reach out to us at [email@example.com](mailto:email@example.com) or join our [community forum](https://forum.example.com).
@@ -87,20 +77,6 @@ Our future plans for the Virtual Trial Room App include:
 - Implementing user profiles for saving and sharing outfits.
 - Integrating advanced AI for even more realistic virtual try-ons.
 
-## FAQs
-
-**Q: How can I contribute to this project?**
-A: Follow our [Contributing Guidelines](CONTRIBUTING.md) to get started with contributing.
-
-**Q: Is there a mobile app available for this project?**
-A: We are actively developing the mobile app. You can build and run it locally following the instructions in the README.
-
-**Q: What technologies are used in this project?**
-A: This project is built using Flutter, a popular open-source UI framework.
-
-## Testing and Bug Reporting
-
-To test the app and report bugs or issues, please refer to our [Testing and Bug Reporting Guidelines](TESTING.md).
 
 ---
 
