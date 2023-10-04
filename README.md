@@ -62,7 +62,7 @@ We welcome contributions from the community! To contribute to this project:
 
 ## Contact Information
 
-For questions, suggestions, or collaboration, you can reach out to us at [email@example.com](mailto:email@example.com) or join our [community forum](https://forum.example.com).
+For questions, suggestions, or collaboration, you can reach out to us at [wasibhussain3@gmail.com](wasibhussain3@gmail.com).
 
 ## Acknowledgments
 
